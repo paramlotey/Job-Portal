@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-router": "^6.9.0",
+    "react-router-dom": "^6.9.0",
+    "validator": "^13.9.0"
+  }
+}
